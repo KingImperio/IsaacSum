@@ -1,0 +1,12 @@
+[
+  {
+    "id": "b5d29c62-80d4-4ab6-bcc2-cf57f236b0e2",
+    "createdAt": "2026-10-30T18:57:14.816Z",
+    "source": null,
+    "options": {
+      "length": "balanced",
+      "format": "bullets"
+    },
+    "summary": "**TL;DR** — offline extractive summary (mock provider).\n\n- The mitochondrion is the powerhouse of the cell.\n- It generates ATP through cellular respiration.\n- The Krebs cycle occurs in the matrix, while the electron transport chain is located in the inner mitochondrial membrane."
+  }
+]
